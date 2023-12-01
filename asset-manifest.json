@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/IOmockup/static/css/main.472e1cf0.chunk.css",
+    "main.js": "/IOmockup/static/js/main.3c500d05.chunk.js",
+    "runtime-main.js": "/IOmockup/static/js/runtime-main.bf886737.js",
+    "static/css/2.6b841657.chunk.css": "/IOmockup/static/css/2.6b841657.chunk.css",
+    "static/js/2.c672f166.chunk.js": "/IOmockup/static/js/2.c672f166.chunk.js",
+    "index.html": "/IOmockup/index.html",
+    "precache-manifest.39053805b6f83917ab92f97bcf7ff19f.js": "/IOmockup/precache-manifest.39053805b6f83917ab92f97bcf7ff19f.js",
+    "service-worker.js": "/IOmockup/service-worker.js",
+    "static/js/2.c672f166.chunk.js.LICENSE.txt": "/IOmockup/static/js/2.c672f166.chunk.js.LICENSE.txt",
+    "static/media/adaptor.b61c8dc7.svg": "/IOmockup/static/media/adaptor.b61c8dc7.svg",
+    "static/media/analyze.svg": "/IOmockup/static/media/analyze.338be757.svg",
+    "static/media/angle-up.60d89147.svg": "/IOmockup/static/media/angle-up.60d89147.svg",
+    "static/media/ap.23e96553.svg": "/IOmockup/static/media/ap.23e96553.svg",
+    "static/media/brandLogo.svg": "/IOmockup/static/media/brandLogo.71a2d2f2.svg",
+    "static/media/circlereset.0114bb7b.svg": "/IOmockup/static/media/circlereset.0114bb7b.svg",
+    "static/media/diagSwitch.e1928c56.svg": "/IOmockup/static/media/diagSwitch.e1928c56.svg",
+    "static/media/errorboundary.svg": "/IOmockup/static/media/errorboundary.f0a0e582.svg",
+    "static/media/monitor.5c3c6f1f.svg": "/IOmockup/static/media/monitor.5c3c6f1f.svg",
+    "static/media/outlet.e167465c.svg": "/IOmockup/static/media/outlet.e167465c.svg",
+    "static/media/outletBase.93a68a06.svg": "/IOmockup/static/media/outletBase.93a68a06.svg",
+    "static/media/outletIcon.54393642.svg": "/IOmockup/static/media/outletIcon.54393642.svg",
+    "static/media/phone.5e6fb68d.svg": "/IOmockup/static/media/phone.5e6fb68d.svg",
+    "static/media/printer.397703c1.svg": "/IOmockup/static/media/printer.397703c1.svg",
+    "static/media/reset.4e133780.svg": "/IOmockup/static/media/reset.4e133780.svg",
+    "static/media/index.css": "/IOmockup/static/media/roboto-latin-900italic.ebf6d164.woff2",
+    "static/media/router.87781f06.svg": "/IOmockup/static/media/router.87781f06.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bf886737.js",
+    "static/css/2.6b841657.chunk.css",
+    "static/js/2.c672f166.chunk.js",
+    "static/css/main.472e1cf0.chunk.css",
+    "static/js/main.3c500d05.chunk.js"
+  ]
+}
